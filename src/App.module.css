@@ -1,0 +1,11 @@
+.App {
+
+}
+.heading
+{
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 1.4rem;
+  box-shadow: rgba(1, 157, 165, 0.2) 0px 10px 20px;
+  color:#00ADB5;
+}

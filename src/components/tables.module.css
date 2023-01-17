@@ -1,0 +1,33 @@
+.main {
+  width: 90%;
+}
+.heading {
+  /* text-align: center; */
+  border-collapse: separate;
+  border-spacing: 0 3rem;
+  width: 100%;
+}
+.header {
+  color: rgb(255, 145, 0);
+}
+.contest {
+
+}
+.site
+{
+  padding-left: 1.7rem;
+ padding-right: 1.7rem; 
+}
+.Duration
+{
+  padding-left:3.2rem;
+  padding-right: 3.2rem;
+}
+tr {
+  color: rgb(71, 255, 203);
+  text-align: center;
+}
+img {
+  width: 2rem;
+  height: 2rem;
+}
