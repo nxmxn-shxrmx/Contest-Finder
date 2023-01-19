@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Contest-Finder/static/css/main.8f9a4218.css",
-    "main.js": "/Contest-Finder/static/js/main.967e62e2.js",
+    "main.js": "/Contest-Finder/static/js/main.f5fcd7ca.js",
     "static/js/787.a2826e9d.chunk.js": "/Contest-Finder/static/js/787.a2826e9d.chunk.js",
     "static/media/topcoder.png": "/Contest-Finder/static/media/topcoder.4ccada21bd64d73b5b7f.png",
     "static/media/leetcode.webp": "/Contest-Finder/static/media/leetcode.b0b6d8d41898b188dc5e.webp",
     "static/media/codeforces.webp": "/Contest-Finder/static/media/codeforces.a08f4b4671335f76dce0.webp",
     "index.html": "/Contest-Finder/index.html",
     "main.8f9a4218.css.map": "/Contest-Finder/static/css/main.8f9a4218.css.map",
-    "main.967e62e2.js.map": "/Contest-Finder/static/js/main.967e62e2.js.map",
+    "main.f5fcd7ca.js.map": "/Contest-Finder/static/js/main.f5fcd7ca.js.map",
     "787.a2826e9d.chunk.js.map": "/Contest-Finder/static/js/787.a2826e9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f9a4218.css",
-    "static/js/main.967e62e2.js"
+    "static/js/main.f5fcd7ca.js"
   ]
 }
