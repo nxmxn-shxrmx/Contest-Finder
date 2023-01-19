@@ -26,7 +26,8 @@ const Site = (prop) =>
         TopCoder:{img:TopCoder,link:'https://topcoder.com'},
     }
     var u = prop.name.replaceAll(' ','_')
-    console.log(u)
+    if(u==='CodeForces::Gym')
+        u = 'CodeForces';
     return (<a href={sites[u].link} target="_blank"><img src={sites[u].img}></img></a>)
 }
 export default Site
