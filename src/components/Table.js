@@ -4,6 +4,7 @@ import Dates from "./Dates"
 import Duration from "./Duration"
 import Site from './Site'
 import ContestName from './ContestName'
+import AddToCalender from './AddToCalender'
 const Table = () => {
   const [user, setUser] = useState([]);
 
@@ -39,7 +40,7 @@ const Table = () => {
             <td><Site name={data.site}></Site></td>
             <td><Dates name={data.start_time}></Dates></td>
             <td><Duration start={data.start_time} end={data.end_time}></Duration></td>
-            <td>---</td>
+            <td><AddToCalender data={data} ></AddToCalender></td>
         </tr>
           ))}
         </tbody>
