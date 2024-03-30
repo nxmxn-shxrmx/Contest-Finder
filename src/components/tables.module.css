@@ -31,3 +31,14 @@ img {
   width: 2rem;
   height: 2rem;
 }
+
+.pages
+{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+}
+.hide
+{
+  display: none;
+}

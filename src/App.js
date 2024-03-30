@@ -1,5 +1,5 @@
 import styles from './App.module.css';
-import Table from './components/Table'
+import Table from './components/Table';
 function App() {
   return (
     <div className="App">
